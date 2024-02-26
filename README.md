@@ -1,2 +1,2 @@
-# terraform-aws-vpc
-Terraform Module VPC Example
+# terraform-aws-ec2
+Terraform Module EC2 Example
